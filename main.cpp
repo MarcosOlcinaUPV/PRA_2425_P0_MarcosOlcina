@@ -1,5 +1,5 @@
 #include <iostream>
-#include "BrazoRobotico.h"
+#include "brazoRobotico.h"
 
 using namespace std;
 
